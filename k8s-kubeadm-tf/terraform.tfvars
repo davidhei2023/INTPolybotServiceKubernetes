@@ -8,3 +8,4 @@ worker_node_iam_role = "davidhei-k8s-worker-node-role"
 worker_node_sg_ids = ["sg-0e25deee5189c83d9"]
 key_pair_name = "davidhei-ohio-key"
 instance_type = "t3.medium"
+
